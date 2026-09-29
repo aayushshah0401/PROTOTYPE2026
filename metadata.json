@@ -1,0 +1,6 @@
+{
+  "name": "VoxSentinel",
+  "description": "AI-Powered Real-Time Voice Clone Detection and Prevention System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
