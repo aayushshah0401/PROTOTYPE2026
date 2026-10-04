@@ -539,6 +539,25 @@ Then create a Pull Request.
 
 ---
 
+# 🛠️ Troubleshooting
+
+If the project does not build or run correctly, check the following:
+
+### Gradle Build Error
+
+Make sure:
+
+* The correct JDK version compatible with the project's Gradle/Android configuration is installed.
+* Android SDK is installed and configured.
+* Required Android SDK components are installed.
+* Gradle has internet access to download required dependencies.
+* The project has been opened from the repository root directory.
+
+Then try:
+
+```bash
+gradlew.bat build
+
 # ⭐ Support
 
 If you find the project useful:
