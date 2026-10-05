@@ -7,7 +7,7 @@
 
 VoxSentinel is an AI-powered security system designed to detect **AI-generated, cloned, or synthetically manipulated voices in real time**.
 
-The system aims to help users identify suspicious voice interactions and reduce the risk of voice-based fraud, impersonation, social engineering, and other attacks involving AI-generated speech.
+VoxSentinel is designed to identify potentially suspicious voice interactions and provide users with an additional layer of protection against AI-generated voice impersonation, fraud, social engineering, and other emerging voice-based threats.
 
 ---
 
