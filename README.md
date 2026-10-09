@@ -154,7 +154,8 @@ The audio can be prepared for analysis by performing operations such as:
 
 ## 3. AI Analysis
 
-The processed audio is analyzed for characteristics that may indicate synthetic or cloned speech.
+The processed audio is examined for features that may indicate synthetic or cloned speech.
+.
 
 Potential indicators may include:
 
